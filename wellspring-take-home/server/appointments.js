@@ -1,4 +1,4 @@
-const upcomingVisits = [
+const appointments = [
     {
       id: 1,
       time: "10:00 AM",
@@ -28,4 +28,4 @@ const upcomingVisits = [
     }
   ];
 
-  module.exports = upcomingVisits;
+  module.exports = appointments;

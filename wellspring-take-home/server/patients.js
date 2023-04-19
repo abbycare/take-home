@@ -1,4 +1,4 @@
-const recentPatients = [
+const patients = [
     { id: 1, patientName: 'John Doe', caregiverName: 'Jane Doe', age: 30, visitStatus: 'Visit completed' },
     { id: 2, patientName: 'Bob Smith', caregiverName: 'Sarah Smith', age: 25, visitStatus: 'Started training' },
     { id: 3, patientName: 'Alice Lee', caregiverName: 'Mark Lee', age: 45, visitStatus: 'Visit completed' },
@@ -21,4 +21,4 @@ const recentPatients = [
     { id: 20, patientName: 'Franklin Turner', caregiverName: 'Hannah Turner', age: 39, visitStatus: 'Missing documentation' }
   ];
   
-  module.exports = recentPatients;
+  module.exports = patients;
