@@ -5,7 +5,7 @@ At Wellspring, we’re building tools to supercharge our families’ ability to 
 
 This project aims to build a front-end web experience for our electronic health record system. The interface will help our clinical team to easily access patient data and track how to best support our families.
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/24286181/233230388-602a7866-4ecf-4c4d-9a52-667f10da3635.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/24286181/233230581-738175b3-b2aa-4cfe-ad46-f942a743b461.png">
 
 ### Features
 * Side nav panel
