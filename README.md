@@ -8,7 +8,7 @@ This project aims to build a front-end web experience for our electronic health 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/24286181/233230738-f1d03f3c-0438-485f-aa31-01dfd9a3b0cb.png">
 
 ### Features
-* Side nav panel
+* Side navigation panel
 * Recent patients table
 * Upcoming visits table
 
