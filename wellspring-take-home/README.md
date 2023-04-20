@@ -5,16 +5,17 @@ At Wellspring, we’re building tools to supercharge our families’ ability to 
 
 This project aims to build a front-end web experience for our electronic health record system. The interface will help our clinical team to easily access patient data and track how to best support our families.
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/24286181/233230388-602a7866-4ecf-4c4d-9a52-667f10da3635.png">
+
 ### Features
 * Side nav panel
 * Recent patients table
 * Upcoming visits table
 
 ### Getting Started
-1. Clone this repository to your local machine
-2. Run npm install to install the necessary dependencies
-3. Run npm start to start the application
-4. Open your web browser and navigate to http://localhost:3000 to view the application
+1. Run `npm install` to install the necessary dependencies
+2. Run `npm start` to start the application
+3. Open your web browser and navigate to http://localhost:3000 to view the application
 
 ### API Endpoints
 This project comes with two API endpoints that you can use to fetch data for your front-end application:
