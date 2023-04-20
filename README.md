@@ -5,6 +5,8 @@ At Wellspring, we’re building tools to supercharge our families’ ability to 
 
 This project aims to build a front-end web experience for our electronic health record system. The interface will help our clinical team to easily access patient data and track how to best support our families.
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/24286181/233230738-f1d03f3c-0438-485f-aa31-01dfd9a3b0cb.png">
+
 ### Features
 * Side nav panel
 * Recent patients table
@@ -57,6 +59,6 @@ After installing TypeScript, create a tsconfig.json file in the root directory o
 * HTML/CSS
 
 ### Design Assets
-Link to Figma design: [https://www.figma.com/file/48yJngFXLDYikPxYGlNR8m/Take-home-FE?node-id=0%3A1&t=eGSP0rMno1xNHCX9-0](https://www.figma.com/file/oUQ510tObMV24neUboZKuD/Take-home-Design-V2.0?node-id=0-1&t=RT5tZiHAUQTip1rw-0)
+Link to Figma design: (https://www.figma.com/file/oUQ510tObMV24neUboZKuD/Take-home-Design-V2.0?node-id=0-1&t=RT5tZiHAUQTip1rw-0)
 
 Link to download the assets is here (optional): https://drive.google.com/file/d/1-Gi7yLZMxclh_ld8M3LTSQkfExkzKBLl/view?usp=sharing
