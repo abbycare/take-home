@@ -57,5 +57,5 @@ After installing TypeScript, create a tsconfig.json file in the root directory o
 * HTML/CSS
 
 ### Design Assets
-Link to Figma design: [https://www.figma.com/file/48yJngFXLDYikPxYGlNR8m/Take-home-FE?node-id=0%3A1&t=eGSP0rMno1xNHCX9-0](https://www.figma.com/file/oUQ510tObMV24neUboZKuD/Take-home-Design-V2.0?node-id=0-1&t=RT5tZiHAUQTip1rw-0)
+Link to Figma design: (https://www.figma.com/file/oUQ510tObMV24neUboZKuD/Take-home-Design-V2.0?node-id=0-1&t=RT5tZiHAUQTip1rw-0)
 Link to download the assets is here (optional): https://drive.google.com/file/d/1-Gi7yLZMxclh_ld8M3LTSQkfExkzKBLl/view?usp=sharing
