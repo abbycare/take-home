@@ -28,7 +28,7 @@ Returns an array of patients.
 * GET `/api/appointments`
 Returns an array of appointments.
 
-### Typescript
+### Typescript (Optional)
 
 This project was originally built using JavaScript, but candidates are free to add TypeScript to the existing codebase. To do so, simply run the following command in your terminal:
 
