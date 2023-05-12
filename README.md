@@ -62,3 +62,28 @@ After installing TypeScript, create a tsconfig.json file in the root directory o
 Link to Figma design: (https://www.figma.com/file/oUQ510tObMV24neUboZKuD/Take-home-Design-V2.0?node-id=0-1&t=RT5tZiHAUQTip1rw-0)
 
 Link to download the assets is here (optional): https://drive.google.com/file/d/1-Gi7yLZMxclh_ld8M3LTSQkfExkzKBLl/view?usp=sharing
+
+## Frequently Asked Questions (FAQ)
+
+**Q: How should the coding challenge be submitted?**. 
+* Zip the directory containing your code and email the zipped file to stefan@withwellspring.com.
+* Alternatively, you can create a public repository and share the repository URL with stefan@withwellspring.com.
+
+**Q: Do you have renders for the kebab menu on the appointments table?**
+* No, you don't need to worry about implementing an interaction for the kebab menu on the appointments table. Clicking on the menu should not trigger any action or behavior.
+
+**Q: Will the tabs under Upcoming visits be functional?**. 
+* Yes, the tabs (Today, Tomorrow, This week) should be fully functional. They should filter the upcoming visits based on the selected day. You can choose a random date as the "today" date to build upon.
+
+**Q: Will the side navigation tabs be functional? Should clicking on the Patients tab bring up a list of patients?**. 
+* While there is no specific requirement for a patients page, it is expected that the side navigation tabs change the state and/or route away from the home page. You have flexibility in implementing the behavior and appearance of the patients page.
+
+**Q: If I click the "View all" tab in the Recent Patients section, should it bring up the same page as the "Patients" button?**. 
+* Yes, clicking the "View all" tab in the Recent Patients section should navigate to the same page as the "Patients" button. However, the design and content of this page are not specified, and it can be left blank or simply display a title such as "Patients" for the purpose of this take-home project.
+
+**Q: Can I use libraries or other technologies?**. 
+* Absolutely! We encourage you to use any libraries or technologies that you are comfortable with and that will help you showcase your skills effectively in completing the assessment.
+
+Note: We understand that not every detail may be fully provided, mimicking a real-world front-end engineering scenario where you may need to take the initiative to provide the optimal user experience. Feel free to demonstrate your problem-solving skills and make informed decisions to enhance the usability and functionality of the application.
+
+If you have any additional questions, please do not hesitate to reach out to stefan@withwellspring.com.
