@@ -86,4 +86,4 @@ Link to download the assets is here (optional): https://drive.google.com/file/d/
 
 Note: We understand that not every detail may be fully provided, mimicking a real-world front-end engineering scenario where you may need to take the initiative to provide the optimal user experience. Feel free to demonstrate your problem-solving skills and make informed decisions to enhance the usability and functionality of the application.
 
-If you have any additional questions, please do not hesitate to reach out to stefan@withwellspring.com.
+If you have any additional questions, please do not hesitate to reach out to us.
