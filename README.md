@@ -66,8 +66,8 @@ Link to download the assets is here (optional): https://drive.google.com/file/d/
 ## Frequently Asked Questions (FAQ)
 
 **Q: How should the coding challenge be submitted?**. 
-* Zip the directory containing your code and email the zipped file to stefan@withwellspring.com.
-* Alternatively, you can create a public repository and share the repository URL with stefan@withwellspring.com.
+* Zip the directory containing your code and email the zipped file back to us.
+* Alternatively, you can create a public repository and share the repository URL with us.
 
 **Q: Do you have renders for the kebab menu on the appointments table?**
 * No, you don't need to worry about implementing an interaction for the kebab menu on the appointments table. Clicking on the menu should not trigger any action or behavior.
